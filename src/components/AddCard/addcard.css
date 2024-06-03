@@ -1,0 +1,53 @@
+.add-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    margin: 2px 0;
+    cursor: pointer;
+    transition: 0.3s;
+    border: none;
+}
+
+.add-card:hover{
+    opacity: 0.7;
+    transition: 0.4s;
+}
+
+
+.add-card-plus{
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
+}
+
+
+.add-card-text{
+    color: #5E6C84;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.submit-card{
+    border: none;
+    border-radius: 5px;
+    margin: 2px 0;
+    background: #0079BF;
+    cursor: pointer;
+    transition: 0.3s;
+    padding: 4px 12px;
+}
+
+.submit-card:hover{
+    opacity: 0.7;
+    transition: 0.4s;
+}
+
+.submit-card-text{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+}
+

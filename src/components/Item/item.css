@@ -1,0 +1,19 @@
+.item-element{
+    height: 20px;
+    padding: 7px 10px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin: 0 0 15px 0;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1024px){
+    .item-element{
+        font-size: 16px;
+        line-height: 18px;
+    }
+}
+

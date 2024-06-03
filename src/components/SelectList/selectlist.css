@@ -1,0 +1,12 @@
+.select-wrap{
+    width: 100%;
+}
+
+.select-list{
+    width: 100%;
+    font-size: 18px;
+    line-height: 21px;
+    padding: 7px 10px;
+    cursor: pointer;
+    margin: 0 0 15px 0;
+}
